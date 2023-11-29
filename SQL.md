@@ -1,0 +1,31 @@
+---
+Priority: "2"
+---
+- [ ] MySQL
+- [ ] PostgreSQL
+	- [ ] Data types
+	- [ ] Advanced data types
+	- [ ] Partitioning stategies
+	- [ ] Full-text search
+	- [ ] Backup and recovery
+	- [ ] JSONB and NoSQL integration
+	- [ ] CI/CD integration
+	- [ ] Subqueries and nested queries
+	- [ ] Query optimization
+	- [ ] Stored procedures and functions
+	- [ ] Window functions
+	- [ ] Data warehousing (star schema, snowflake schema)
+	- [ ] ETL processes
+	- [ ] Security and permissions
+	- [ ] Database administration
+	- [ ] Advanced aggregation
+- [ ] Design
+	- [ ] Normalization and normal forms 
+	- [ ] Denormalization
+	- [ ] Entity-relationship modeling
+	- [ ] Data modeling tools
+- [ ] Indexing and optimization
+- [ ] MongoDB
+- [ ] Transactions and isolation levels
+- [ ] Temporal data
+- [ ] Replication

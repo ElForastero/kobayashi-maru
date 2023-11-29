@@ -1,0 +1,11 @@
+---
+Priority: "1"
+---
+	- [ ] Дебаг Node.js через Remote Debug
+- [ ] Анализ снепшотов хипа через инструменты браузера
+- [ ] Mark and sweep
+- [ ] Logging
+	- [ ] sendBeacon
+	- [ ] 3rd party logging
+	- [ ] 3rd party profiler
+	- [ ] 3rd party monitoring

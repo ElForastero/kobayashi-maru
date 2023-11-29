@@ -1,0 +1,19 @@
+- [ ] XSS
+- [ ] Prototype Polution
+- [ ] CSRF
+- [ ] 3rd party cookies
+- [ ] CSP
+- [ ] CORS
+	- [ ] Заголовки CORS
+- [ ] Storing Passwords and hashing capabilities
+- [ ] Санитизация входных данных
+- [ ] IDOR
+- [ ] Понимание фишинга, DOS
+- [ ] JSON Hijacking
+- [ ] Принципы работы симметричной и ассиметричной криптографии
+- [ ] Authentication and Access Control Attacks
+- [ ] OWASP top 10 уязвимостей
+- [ ] Понимание принципов работы TLS/SSL
+- [ ] DNS over TLS, DNS over HTTPS
+- [ ] VPN
+- [ ] GPG signature

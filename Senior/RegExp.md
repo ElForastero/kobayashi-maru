@@ -1,0 +1,10 @@
+- [ ] Unicode
+- [ ] Lookahead / lookbehind assertions
+- [ ] Named capture groups
+- [ ] Flags
+- [ ] Match indices
+- [ ] Character classes
+- [ ] Word boundaries
+- [ ] Greediness
+- [ ] Backreferences
+- [ ] Conditionals

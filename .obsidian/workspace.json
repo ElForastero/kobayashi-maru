@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "f41f2f3864986ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "736ff0fe67e9a311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "145f70540c7f682d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Senior/Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0418e5cf3877009f",
+    "type": "split",
+    "children": [
+      {
+        "id": "102247ebe8b7a0b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e789b78498d55a0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b25f2d4b279cf5d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfa8cc5aba456f61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ef8fa14f5a68aeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48637ee17373865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6009fdb43253e3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Senior/Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa84ec8b557ec0e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Senior/Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d643d019798e1b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e9572993be969a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Senior/Database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "145f70540c7f682d",
+  "lastOpenFiles": [
+    "Junior/Database.md",
+    "Senior/Database.md",
+    "Middle/Database.md",
+    "SQL.md",
+    "Senior/RegExp.md",
+    "README.md",
+    "RegExp.md",
+    "Middle/RegExp.md",
+    "Junior/RegExp.md",
+    "Middle/SSH.md",
+    "Middle/Network.md",
+    "Middle/Testing.md",
+    "Senior/Docker.md",
+    "Docker.md",
+    "Junior/Docker.md",
+    "Senior/DOM.md",
+    "Middle/DOM.md",
+    "Junior/DOM.md",
+    "Middle/Docker.md",
+    "JavaScript.md",
+    "Senior/TypeScript.md",
+    "TypeScript.md",
+    "Senior/Security.md",
+    "Security.md",
+    "Middle/Security.md",
+    "Middle/TypeScript.md",
+    "Senior",
+    "Middle",
+    "Junior",
+    "Study"
+  ]
+}

@@ -1,0 +1,38 @@
+---
+Priority: "3"
+---
+- [ ] Строгие и нестрогое равенства
+- [ ] Hoisting
+- [ ] for..in, for..of, способы создания объектов
+- [ ] "use strict"
+- [ ] Прототипное наследование, полифилы и monkey-patching
+	- [ ] Отличия прототипного наследования от ООП
+- [ ] this, binding
+- [ ] import.meta
+- [ ] globalThis
+- [ ] BigInt
+- [ ] Intl
+- [ ] Private members
+- [ ] Change array by copy
+- [ ] Single-threaded nature of JavaScript
+- [ ] Understanding ES standards
+- [ ] Module / no module
+- [ ] Proxy / Reflect
+- [ ] Iterable
+- [ ] UTC, таймзоны, работа с датами
+- [ ] Обработка ошибок
+	- [ ] try/catch/finaly, optional catch binding, свойства объекта Error (cause?)
+	- [ ] Обработка ошибок с помощью монады Either
+- [ ] Event loop
+	- [ ] Общие принципы
+	- [ ] setTimeout(fn, 0)
+	- [ ] Макро- и микротаски
+	- [ ] Фейковая многопоточка
+- [ ] requestAnimationFrame, requestIdleCallback
+- [ ] Генераторы
+	- [ ] Асинхронные генераторы
+	- [ ] Обработка ошибок
+- [ ] Fetch API
+	- [ ] Разница с XHR
+	- [ ] Отмена запросов
+	- [ ] Работа с бинарными данными
