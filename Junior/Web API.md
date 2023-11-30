@@ -1,17 +1,8 @@
----
-Priority: "2"
----
 
-- [ ] Canvas API
-- [ ] Web Storage
-- [ ] Service Workers
-- [ ] Shared Workers
-- [ ] Web Workers
 - [ ] WebGL
 - [ ] WebRTC
-- [ ] Geolocation API
+
 - [ ] Web Audio API
-- [ ] Intersection Observer API
 - [ ] Web Speech API
 - [ ] Payment Request API
 - [ ] File API

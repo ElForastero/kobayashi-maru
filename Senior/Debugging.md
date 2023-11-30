@@ -1,7 +1,4 @@
----
-Priority: "1"
----
-	- [ ] Дебаг Node.js через Remote Debug
+- [ ] Дебаг Node.js через Remote Debug
 - [ ] Анализ снепшотов хипа через инструменты браузера
 - [ ] Mark and sweep
 - [ ] Logging

@@ -1,6 +1,3 @@
----
-Priority: "3"
----
 - [ ] Event-driven architecture
 - [ ] Asynchronous I/O
 - [ ] Express.js, Fastify, ...

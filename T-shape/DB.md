@@ -1,6 +1,3 @@
----
-Priority: "2"
----
 - [ ] MySQL
 - [ ] PostgreSQL
 	- [ ] Data types

@@ -1,0 +1,8 @@
+- [ ] Canvas API
+- [ ] Web Storage
+- [ ] Service Workers
+- [ ] Shared Workers
+- [ ] Web Workers
+- [ ] Geolocation API
+- [ ] Intersection Observer API
+- [ ] Pointer Events API

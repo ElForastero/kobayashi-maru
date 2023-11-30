@@ -17,3 +17,5 @@
 - [ ] DNS over TLS, DNS over HTTPS
 - [ ] VPN
 - [ ] GPG signature
+- [ ] SQL-инъекция
+- [ ] Content spoofing

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senior/Database.md",
+                "file": "T-shape/DB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afd74e3bfd2118d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T-shape/Agile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senior/Database.md",
+                "file": "T-shape/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senior/Database.md",
+                "file": "T-shape/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senior/Database.md"
+                "file": "T-shape/Agile.md"
               }
             }
           }
@@ -146,34 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "145f70540c7f682d",
+  "active": "7afd74e3bfd2118d",
   "lastOpenFiles": [
-    "Junior/Database.md",
-    "Senior/Database.md",
-    "Middle/Database.md",
-    "SQL.md",
-    "Senior/RegExp.md",
-    "README.md",
-    "RegExp.md",
-    "Middle/RegExp.md",
-    "Junior/RegExp.md",
-    "Middle/SSH.md",
-    "Middle/Network.md",
-    "Middle/Testing.md",
-    "Senior/Docker.md",
-    "Docker.md",
-    "Junior/Docker.md",
-    "Senior/DOM.md",
-    "Middle/DOM.md",
-    "Junior/DOM.md",
-    "Middle/Docker.md",
     "JavaScript.md",
-    "Senior/TypeScript.md",
-    "TypeScript.md",
+    "T-shape/Agile.md",
+    "Common.md",
+    "Senior/Architecture.md",
+    "Middle/React.md",
+    "Middle/Misc.md",
+    "Junior/React.md",
+    "Junior/JavaScript.md",
+    "Middle/Architecture.md",
+    "Middle/i18n.md",
+    "Junior/Misc.md",
+    "Junior/i18n.md",
+    "Middle/Git.md",
+    "Middle/HTML.md",
+    "Senior/FP.md",
+    "Senior/Node.js.md",
+    "T-shape/DB.md",
+    "T-shape/Time Management.md",
+    "Middle/SSH.md",
+    "Middle/Computer Science.md",
+    "Senior/Git.md",
+    "README.md",
+    "Senior/API.md",
+    "Senior/a11y.md",
     "Senior/Security.md",
-    "Security.md",
-    "Middle/Security.md",
-    "Middle/TypeScript.md",
+    "Junior/Network.md",
+    "T-shape",
     "Senior",
     "Middle",
     "Junior",

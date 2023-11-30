@@ -1,4 +1,4 @@
-### Базовые принципы проектирования
+## Базовые принципы проектирования
 
 * Что такое абстрагирование? Какие есть отличия между абстракцией, инкапсуляцией и скрытием информации?
 * MVVM
@@ -137,3 +137,60 @@
 - [Dependency Inversion Implies Interfaces Are Owned by High-level Modules](https://mikhail.io/2016/05/dependency-inversion-implies-interfaces-are-owned-by-high-level-modules/)
 - [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html)
 
+## Инверсия управления
+
+### Что такое IoC?
+
+- В чем преимущества фреймворков, предоставляющих IoC, перед библиотеками?
+- В чем преимущества библиотек без IoC перед фреймворками?
+- Может ли модуль предоставлять интерфейс, поддерживающий оба подхода: с IoC и без IoC?
+
+### Инъекция зависимостей
+
+- Что такое DI?
+- Каковы альтернативы DI? Каковы преимущества и недостатки каждой альтернативы?
+- Можно ли реализовать DI без IoC?
+- Как DI помогает достичь разделения забот?
+- Как связаны между собой DI и принцип инверсии зависимостей из SOLID?
+
+Что такое несоответствие импеданса? Каковы примеры несоответствия импеданса в различных технологиях? Каковы наиболее популярные паттерны решений?
+Какие проблемы могут быть вызваны преждевременной оптимизацией? Как решить проблемы с производительностью, избегая преждевременной оптимизации?
+Каковы преимущества предоставления API с различными уровнями абстракции?
+Почему обратные вызовы нарушают композитность?
+
+### Large Scale JS
+
+- В чем заключается основная идея предлагаемого подхода?
+- Какие паттерны используются в этом подходе?
+- Какова роль событий в этом подходе? Можно ли реализовать подобный подход только с помощью синхронных вызовов функций?
+- Как это помогает достичь отказоустойчивости?
+- Как модули могут зависеть друг от друга?
+
+### API модуля
+
+- Каковы характеристики хорошего API модуля?
+- Как сделать так, чтобы API было сложно использовать не по назначению? Каковы преимущества этой характеристики?
+- Что такое свойства согласованности и концептуальной целостности API? Почему эти свойства ценны?
+- Как написание сценариев использования перед написанием кода может помочь добиться чистоты API?
+- В чем разница между расширяемостью авторами модулей и клиентами модулей?
+- Как вы можете объяснить фразу "Асимметрия функции должна отражаться асимметрией формы"?
+- Как имена, используемые в API вашего модуля, могут отражать структуру вашего модуля и повышать связность различных частей вашего контракта?
+- Что такое крайние случаи в контексте проектирования API? Почему неявная обработка краевых случаев предпочтительнее явной?
+- О чем говорит правило "Лучший API - это отсутствие API"? Каковы примеры нарушения этого правила?
+
+- Как модульное программирование помогает нам достичь лучшего локального рассуждения при разработке модуля?
+- Какие преимущества дает декларирование явного контракта между клиентом и тем, кто реализует модуль?
+- В чем разница между абстракцией путем параметризации и абстракцией путем спецификации?
+
+#### Ресурсы
+
+- [How To Design Better JavaScript APIs](https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) (little bit opinionated post, don't consider as perfect guide)
+- [Library patterns Multiple levels of abstraction](http://tomasp.net/blog/2015/library-layers/)
+- [Library patterns Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)
+- [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/) [[Перевод](https://medium.com/@xufocoder/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-de1367295ba8)]
+- [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+- [Dependency injection (from Wikipedia)](https://en.wikipedia.org/wiki/Dependency_injection)
+- [The Little Manual of API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)
+- [Modular Programming: Modules and Signatures](https://www.cs.cornell.edu/courses/cs3110/2013sp/lectures/lec07-modules/lec07.html)
+- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+- [Создание архитектуры программы или как проектировать табуретку](https://habr.com/ru/post/276593/)

@@ -17,6 +17,10 @@
 - Что такое "кричащая" (screaming) архитектура и о чём она кричит?
 - [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 
+### FSD
+
+- В чём смысл Feature Sliced и Feature Driven архитектуры?
+
 ### UML-диаграмы
 
 - ER диаграммы
@@ -96,3 +100,33 @@
 * [Cross cutting concern example on SO](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
 * [Cross cutting concern on Wiki](https://en.wikipedia.org/wiki/Cross-cutting_concern)
 * [Coarse-grained vs fine-grained on SO](https://stackoverflow.com/questions/3766845/coarse-grained-vs-fine-grained)
+
+## Паттерны проектирования
+
+- В чем разница между структурными, порождающими и поведенческими видами паттернов?
+- По каждому паттерну ответить на вопросы:
+	- В чем заключается суть паттерна?
+	- Какие проблемы можно решить с помощью данного паттерна?
+	- Какие у него есть недостатки?
+	- Какие можно привести примеры использования данного паттерна?
+	- К какому виду относится данный паттерн и почему?
+	- С какими принципами из SOLID данный паттерн связан и каким образом?
+- Singleton
+- Strategy
+- Template method
+- Factory, Factory Method, Abstract Factory
+- Observer/mediator
+- Facade
+- Decorator
+- Command
+- Component
+- Какие примеры реализации этих паттернов можно привести в функциональном языке, или же в языке, где функции являются объектами первого класса, имеют замыкания и не имеют встроенных средств реализации для выражения классического ОО подхода?
+
+### Ресурсы
+
+- [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+- [Refactoring guru: design patterns](https://refactoring.guru/ru/design-patterns)
+
+## CQRS
+
+- Что такое паттерн CQRS (Command Query Responsibility Segregation)?
